@@ -1,0 +1,270 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which tense is used to describe actions happening right now?",
+        "options": [
+            "Present continuous",
+            "Past continuous",
+            "Future continuous"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "The structure of past continuous tense is:",
+        "options": [
+            "Subject + will be + verb-ing",
+            "Subject + is/am/are + verb-ing",
+            "Subject + was/were + verb-ing",
+            "Subject + has/have + verb-ing"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Future continuous tense always uses 'will be' before the main verb.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Which sentence uses past continuous correctly?",
+        "options": [
+            "I was cook dinner when the phone rang.",
+            "They were played football all afternoon.",
+            "She was reading a book when I arrived.",
+            "We were ate lunch at 1 PM yesterday."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Fill in the blank:<BR> The children _______ (sleep) when the thunderstorm started.",
+        "options": [
+            "are sleeping",
+            "were sleeping",
+            "will be sleeping",
+            "slept"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Which sentence is in future continuous tense?",
+        "options": [
+            "I am writing an email.",
+            "She was cooking dinner.",
+            "They will be attending the conference next month.",
+            "We have been working on this project."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Fill in the blank with the correct future continuous form: This time next week, I _______ (fly) to Paris.",
+        "options": [
+            "will flying",
+            "will be flying",
+            "am flying",
+            "was flying"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "What is the past continuous form of 'He sings'?",
+        "options": [
+            "He is singing",
+            "He was singing",
+            "He will be singing",
+            "He sang"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Present continuous can be used to describe temporary situations.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "Fill in the blank:<BR> At this time tomorrow, we _______ (have) our team meeting.",
+        "options": [
+            "are having",
+            "were having",
+            "will be having",
+            "have"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Which sentence uses present continuous correctly?",
+        "options": [
+            "I am cooking dinner at the moment.",
+            "They are play football now.",
+            "She singing in the shower.",
+            "We studying for the test."
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "What is the future continuous form of 'The sun shines'?",
+        "options": [
+            "The sun is shining",
+            "The sun was shining",
+            "The sun will be shining",
+            "The sun shone"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Past continuous is formed by adding '-ing' to the base form of the verb and using 'was' or 'were'. (True / False)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Fill in the blank:<BR> Look! It _______ (rain) outside.",
+        "options": [
+            "is raining",
+            "was raining",
+            "will be raining",
+            "rains"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Which sentence is in past continuous tense?",
+        "options": [
+            "I am learning French.",
+            "They were watching TV when I called.",
+            "She will be working late tonight.",
+            "We have been waiting for an hour."
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "Fill in the blank: She _______ (study) for her exam when I called her last night.",
+        "options": [
+            "is studying",
+            "was studying",
+            "will be studying",
+            "studies"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "Which sentence is in the present continuous tense?",
+        "options": [
+            "I played tennis yesterday.",
+            "They will be dancing at the party.",
+            "We are watching a movie now.",
+            "She has finished her homework."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "What is the present continuous form of 'They play chess'?",
+        "options": [
+            "They are playing chess",
+            "They were playing chess",
+            "They will be playing chess",
+            "They have played chess"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "What is the present continuous form of 'The cat sleeps'?",
+        "options": [
+            "The cat is sleeping",
+            "The cat was sleeping",
+            "The cat will be sleeping",
+            "The cat slept"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Fill in the blank: When I arrived at the party, everyone _______ (dance).",
+        "options": [
+            "is dancing",
+            "was dancing",
+            "will be dancing",
+            "danced"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "Which sentence uses future continuous correctly?",
+        "options": [
+            "They will working on the project next week.",
+            "She will be travell to London tomorrow.",
+            "We will be attending the conference next month.",
+            "I will studying all night for the exam."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "What is the past continuous form of 'We talk'?",
+        "options": [
+            "We are talking",
+            "We were talking",
+            "We will be talking",
+            "We talked"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "Fill in the blank: This time next year, I _______ (live) in New York.",
+        "options": [
+            "am living",
+            "was living",
+            "will be living",
+            "live"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "Which sentence uses present continuous correctly?",
+        "options": [
+            "He working hard these days.",
+            "They are planning a surprise party.",
+            "We be studying for the test now.",
+            "She preparing dinner at the moment."
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "What is the future continuous form of 'I read'?",
+        "options": [
+            "I am reading",
+            "I was reading",
+            "I will be reading",
+            "I read"
+        ],
+        "correct": 2
+    }
+]
